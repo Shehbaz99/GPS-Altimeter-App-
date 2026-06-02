@@ -50,11 +50,8 @@ The application combines location services and sensor data to help users monitor
 
 # 📸 Screenshots
 
-> Add screenshots of your application here.
 
-| Home Screen | Altitude Screen | Compass Screen |
-| ----------- | --------------- | -------------- |
-| Screenshot  | Screenshot      | Screenshot     |
+
 
 ---
 
